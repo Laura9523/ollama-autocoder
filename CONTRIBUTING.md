@@ -21,3 +21,4 @@ Notes and usage details for ollama-autocoder.
 - link the usage section
 - link the usage section
 - link the usage section
+- clarify the setup steps
